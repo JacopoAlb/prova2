@@ -1,7 +1,7 @@
 # prova2
 
 <<<<<<< HEAD
-Hi guys from Veronica
+Hi guys from Veronica hello again
 =======
 Jacopo
 
